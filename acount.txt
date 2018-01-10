@@ -1,0 +1,9 @@
+admin
+
+user : admin	
+pass : 123
+
+kasir
+
+user : Tia
+pass : 123
